@@ -6,5 +6,9 @@
     {
         "package": "Paralogs",
         "url": "https://github.com/clstacy/Paralogs"
+    },
+    {
+        "package": "multipoolR",
+        "url": "https://github.com/clstacy/multipoolR"
     }
 ]
